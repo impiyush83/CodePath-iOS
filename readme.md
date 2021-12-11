@@ -1,10 +1,10 @@
-# Pre-work - *Name of App Here*
+# Pre-work - *iOS Tip Calculator*
 
-**Name of your app** is a tip calculator application for iOS.
+iOS Tip Calculator is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: Piyush Nalawade
 
-Time spent: **X** hours spent in total
+Time spent: 1 hours spent in total
 
 ## User Stories
 
@@ -30,15 +30,13 @@ Here's a walkthrough of implemented user stories:
 
 <img src= 'https://github.com/impiyush83/CodePath-iOS/blob/main/codepathios.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
 ## Notes
 
 Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2021 Piyush Nalawade
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
